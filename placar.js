@@ -1,7 +1,7 @@
 const placar = {
     largura:800,
     altura:60,
-    corFundo:"blue",
+    corFundo:"#65c368",
     corTexto:"white",
     pontuacao:0,
     nomeJogo:"Snake Game",
